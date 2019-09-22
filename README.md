@@ -1,1 +1,1 @@
-# face_ditect
+# ditect_face_from_image
